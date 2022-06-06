@@ -1,2 +1,2 @@
 #!/bin/bash
---brief /tmp/iamafile
+file /tmp/iamafile
