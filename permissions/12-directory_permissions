@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir 751 permissions 
+mkdir my_dir drwxr-x--x permissions 
